@@ -6,16 +6,15 @@ A smart contact form backend built with Flask that uses AI-powered sentiment ana
 
 ## 🚀 How to Run
 
-### 1. Clone or download the project
-
-```bash
+## 1. Clone or download the project
+bash terminal
 cd ai_contact_form
-2. Install dependencies
+## 2. Install dependencies
 pip install -r requirements.txt
 python -m textblob.download_corpora
-3. Run the Flask app
+## 3. Run the Flask app
 python app.py
-4. Open in your browser
+## 4. Open in your browser
 Visit: http://127.0.0.1:5000
 
 ## 🧩 Features
