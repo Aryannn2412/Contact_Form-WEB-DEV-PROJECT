@@ -31,7 +31,7 @@ AI Module: TextBlob Sentiment Analyzer
 Frontend: HTML, Bootstrap 5, Vanilla JS (AJAX)
 Tools: Postman (for API testing), cURL (optional)
 
-##💡 Future Additions (Optional)
+## 💡 Future Additions (Optional)
 CAPTCHA validation
 Email notifications on valid submissions
 Database integration (MongoDB / SQLite)
